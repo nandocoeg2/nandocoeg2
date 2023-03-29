@@ -6,7 +6,6 @@
 ## Hi there 👋 I'm Fernando Julian 
 ### Reach Me
 
-- [instagram/xnd.o](https://www.instagram.com/xnd.o/)
 - [twitter/nandocoeg](https://www.twitter.com/nandocoeg/)
 - [telegram/nandocoeg](https://t.me/nandocoeg)
 - [linkedin/fernando-julian](https://www.linkedin.com/in/fernando-julian/)
