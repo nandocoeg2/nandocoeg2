@@ -1,5 +1,5 @@
 ---
-[![discord](https://lanyard.cnrad.dev/api/357176745528393728?bg=2C3333&borderRadius=5px&idleMessage=Probably%20doing%20something%20else...(?))](https://discord.com/users/357176745528393728)
+[![Discord Presence](https://lanyard.cnrad.dev/api/357176745528393728?bg=2C3333&borderRadius=5px&idleMessage=Probably%20doing%20something...(?))](https://discord.com/users/357176745528393728)
 ---
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight" alt="nandocoeg" />
@@ -26,3 +26,25 @@
  
 "On the internet, nobody knows you're a dog."
 ```
+
+
+
+
+<!--
+**nandocoeg/nandocoeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+Just a noob boy xixi
+
+Here are some ideas to get you started:
+
+![Fernando Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
