@@ -1,10 +1,5 @@
----
-[![Discord Presence](https://lanyard.cnrad.dev/api/357176745528393728?bg=2C3333&borderRadius=5px&idleMessage=Probably%20doing%20something...(?))](https://discord.com/users/357176745528393728)
----
-<p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight" alt="nandocoeg" />
-</p>
 
+---
 ## Hi there 👋 I'm Fernando Julian 
 ### Reach Me
 
@@ -14,6 +9,11 @@
 - <img src="https://komarev.com/ghpvc/?username=nandocoeg2" alt="nandocoeg" />
 
 ---
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nandocoeg&show_icons=true&theme=tokyonight" alt="nandocoeg" />
+</p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/357176745528393728?bg=2C3333&borderRadius=5px&idleMessage=Probably%20doing%20something...(?))](https://discord.com/users/357176745528393728)
 
 ```
   ______                              _              _       _ _              
