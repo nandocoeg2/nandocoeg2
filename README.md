@@ -11,12 +11,14 @@
 - [linkedin/fernando-julian](https://www.linkedin.com/in/fernando-julian/)
 - <img src="https://komarev.com/ghpvc/?username=nandocoeg2" alt="nandocoeg" />
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=5sfpje71mmdim09wfmg9j61vy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=5sfpje71mmdim09wfmg9j61vy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+
 ---
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/357176745528393728?bg=1a1b27&borderRadius=5px&idleMessage=Probably%20doing%20something...(?))](https://discord.com/users/357176745528393728)
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=5sfpje71mmdim09wfmg9j61vy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=5sfpje71mmdim09wfmg9j61vy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 ```
+
   ______                              _              _       _ _              
  |  ____|                            | |            | |     | (_)             
  | |__ ___ _ __ _ __   __ _ _ __   __| | ___        | |_   _| |_  __ _ _ __   
